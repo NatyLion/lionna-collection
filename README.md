@@ -144,16 +144,16 @@ Download `LIONNA_Collection_Management_System.xlsx` → open in Excel or Google 
 
 | Date | Milestone |
 |------|-----------|
-| Jun 2025 | RFQ sent to 6 suppliers |
-| Jul 2025 | Quote responses received |
-| Aug 2025 | Supplier selection by score |
-| Sep 2025 | Sample orders placed |
-| Oct 2025 | Sample review & approval |
-| Nov 2025 | Bulk production order |
-| Feb 2026 | Production complete |
-| Mar 2026 | Shipment FOB China |
-| Apr 2026 | Stock received Brazil |
-| Jun 2026 | **SS27 LAUNCH 🦁** |
+| Jun 2026 | RFQ sent to 6 suppliers |
+| Jun 2026 | Quote responses received |
+| Jul 2026 | Supplier selection by score |
+| Jul 2026 | Sample orders placed |
+| Jul 2026 | Sample review & approval |
+| Aug 2025 | Bulk production order |
+| Aug 2026 | Production complete |
+| Sep 2026 | Shipment FOB China |
+| Sep 2026 | Stock received Brazil |
+| Sep 2026 | **SS27 LAUNCH 🦁** |
 
 ---
 
